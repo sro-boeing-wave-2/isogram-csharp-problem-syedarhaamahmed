@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram", "Isogram\Isogram.csproj", "{58B09958-022D-4EF8-BA9E-59B0C5AF506D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram.Tests", "Isogram.Tests\Isogram.Tests.csproj", "{321AA580-BBED-4DC1-B57C-C4F18B92DEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B09958-022D-4EF8-BA9E-59B0C5AF506D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B09958-022D-4EF8-BA9E-59B0C5AF506D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B09958-022D-4EF8-BA9E-59B0C5AF506D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B09958-022D-4EF8-BA9E-59B0C5AF506D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321AA580-BBED-4DC1-B57C-C4F18B92DEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321AA580-BBED-4DC1-B57C-C4F18B92DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321AA580-BBED-4DC1-B57C-C4F18B92DEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321AA580-BBED-4DC1-B57C-C4F18B92DEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B430DD-29D5-47B9-B6BD-DE05407C706C}
+	EndGlobalSection
+EndGlobal
